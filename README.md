@@ -1,1 +1,1 @@
-# Time-Series-Panel-Data-Analysis-in-R---A-Coursera-Project-
+# Time Series Panel Data Analysis in R - A Coursera Project
